@@ -1,0 +1,5 @@
+The ideal .vim settings for rails development, particularly focused on a mac. 
+
+to install - clone the repository, then ln -s .vimrc tango_vim/vimrc && ln -s .vim tango_vim/vim
+
+Version 0.01 - Initial checkin. Needs lots of cleanup.
